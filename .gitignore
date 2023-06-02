@@ -1,0 +1,5 @@
+/vendor
+/.idea
+/.vscode
+.DS_Store
+.lando.local.yml
